@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Zadanie_5_Kompresia", "Zadanie_5_Kompresia.vcxproj", "{12B226FC-DB68-40D1-8F6F-B334C5E2D474}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12B226FC-DB68-40D1-8F6F-B334C5E2D474}.Debug|x64.ActiveCfg = Debug|x64
+		{12B226FC-DB68-40D1-8F6F-B334C5E2D474}.Debug|x64.Build.0 = Debug|x64
+		{12B226FC-DB68-40D1-8F6F-B334C5E2D474}.Release|x64.ActiveCfg = Release|x64
+		{12B226FC-DB68-40D1-8F6F-B334C5E2D474}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96585667-B548-4644-9FC7-CCF5EF3601A4}
+	EndGlobalSection
+EndGlobal
