@@ -88,7 +88,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Smrecek_Kompresia.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="out1.txt" />
