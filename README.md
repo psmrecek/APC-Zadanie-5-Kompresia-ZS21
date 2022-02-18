@@ -1,5 +1,7 @@
 # APC-Zadanie-5-Kompresia-ZS21
 
+Oficiálny text zadania (Koscelanský).
+
 Táto úloha je veľmi ľahká, preto je za 5 bodov, posledná (šiesta) potom bude za 15. 
 
 Naprogramujte konzolovú aplikáciu na "kompresiu súboru po riadkoch". Bude mať tri parametre, prvý je string compress/decompress, ktorý hovorí či chceme súbor komprimovať, alebo dekomprimovať. Druhý parameter je cesta k vstupnému súboru a tretí cesta k výstupnému súboru.
@@ -13,10 +15,10 @@ Iné chyby (nedarí sa zapísať súbor, vstupný súbor neexistuje…) búdú u
 Príklad
 
 
-aaabbcc
-xxxxx
-aaBB
-
-a3b2c2
-x5
-a2B2
+    aaabbcc
+    xxxxx
+    aaBB
+    
+    a3b2c2
+    x5
+    a2B2
